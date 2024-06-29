@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805197219894",
+    "project_id": "taskbuilder-ce9ce",
+    "storage_bucket": "taskbuilder-ce9ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805197219894:android:3966420b23bccb023ef097",
+        "android_client_info": {
+          "package_name": "com.example.taskbuilder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJtE-9UplPRwJq1kaFSKXZ9ORiCSmVYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
